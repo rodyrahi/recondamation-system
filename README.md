@@ -1,4 +1,4 @@
-# Recondamation System 📚
+# Recommendation System 📚
 
 Welcome to the **Recondamation System**, a data science project designed to provide personalized recommendations based on user interactions and preferences. This system combines collaborative and content-based filtering techniques, and it is suitable for applications across various industries, such as e-commerce, entertainment, and content platforms.
 
